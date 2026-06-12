@@ -1,16 +1,49 @@
-# React + Vite
+Anima – Front-End Final Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website showcases a functional website using React, CSS, and javascript.
 
-Currently, two official plugins are available:
+🚀 Features
+Responsive design for desktop, tablet, and mobile devices
+Smooth navigation using anchor links
+Interactive user interface
+Modern and clean visual design
+Reusable React components
+Optimized performance with Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🛠️ Technologies Used
+React
+Vite
+JavaScript (ES6+)
+HTML5
+CSS3
 
-## React Compiler
+📂 Project Structure
+src/
+├── components/
+├── assets/
+├── pages/
+├── styles/
+└── App.jsx
+⚙️ Installation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Design Goals
 
-## Expanding the ESLint configuration
+The project focuses on:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive layouts
+Accessibility
+Clean user experience
+Component-based architecture
+Modern front-end development practices
+
+👨‍💻 Author
+
+Eric Gallo
+Agustin Beach
+Adrian De Los Reyes
+
+GitHub: https://github.com/P14XO
+
+📄 License
+
+This project was developed for educational purposes as a front-end final project.
