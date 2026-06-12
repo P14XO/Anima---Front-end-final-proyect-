@@ -24,7 +24,6 @@ src/
 ├── pages/
 ├── styles/
 └── App.jsx
-⚙️ Installation
 
 🎨 Design Goals
 
